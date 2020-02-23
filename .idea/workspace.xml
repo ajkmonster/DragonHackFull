@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aafabe2b-5320-4352-80ad-e6d6a1f6a314" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YBVut84b09S5norY4iHEpznE9o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\images" />
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\images\team" />
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\images\slide" />
+      <recent name="C:\Users\vphim\WebstormProjects\untitled\views" />
+      <recent name="C:\Users\vphim\WebstormProjects\untitled\public\vendor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\images" />
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\javascripts" />
+      <recent name="C:\Users\vphim\WebstormProjects\VictorFolder\public\images\team" />
+      <recent name="C:\Users\vphim\WebstormProjects\untitled\views" />
+      <recent name="C:\Users\vphim\WebstormProjects\untitled\public\javascripts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aafabe2b-5320-4352-80ad-e6d6a1f6a314" name="Default Changelist" comment="" />
+      <created>1582416199917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582416199917</updated>
+      <workItem from="1582416205544" duration="12095000" />
+      <workItem from="1582434208748" duration="9105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1582432260853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582432260853" />
+    <state width="1259" height="110" key="GridCell.Tab.0.bottom" timestamp="1582467878379">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="110" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582467878379" />
+    <state width="1259" height="110" key="GridCell.Tab.0.center" timestamp="1582467878378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="110" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582467878378" />
+    <state width="1259" height="110" key="GridCell.Tab.0.left" timestamp="1582467878378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="110" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582467878378" />
+    <state width="1259" height="110" key="GridCell.Tab.0.right" timestamp="1582467878378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="110" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582467878378" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582434225993">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582434225993" />
+  </component>
+</project>
